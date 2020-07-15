@@ -9,11 +9,11 @@ This is the project for Intel® Edge AI for IoT Developers Nanodegree Program.
 
 In this project, we are given 3 different scenarios that we will need to come up with a ideal solution for the client. These scenarios are
 - Manufacturing Sector
-[![Image](img/1.png)](Image)
+[![Image](img/1.PNG)](Image)
 - Retail
-[![Image](img/2.png)](Image)
+[![Image](img/2.PNG)](Image)
 - Transportation
-[![Image](img/3.png)](Image)
+[![Image](img/3.PNG)](Image)
 
 The report is on this [Choose the Right Hardware – Richter Lau.pdf](Choose&#32;the&#32;Right&#32;Hardware&#32;–&#32;Richter&#32;Lau.pdf)
 
